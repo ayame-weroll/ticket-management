@@ -4,7 +4,6 @@ about: See .github/ISSUE_TEMPLATE/custom.md
 title:  "[DATE]: [FEATURE NAME]"
 labels: 'ToDo'
 projects: 'ayame-weroll/MyToDo'
-assignees: 'ayame-weroll'
 
 ---
 
